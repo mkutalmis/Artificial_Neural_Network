@@ -1,5 +1,5 @@
-# Artificial_Neural_Network
-Classification of 2d data and visualization
+# Artificial_Neural_Network 
+Classification of 2d data and visualization in c++
 
 In this program in step1 user chose data class count and for every class user chose a color for visualization.
 
@@ -22,3 +22,5 @@ In step4 user either pick number of epochs and run program for that number or pi
 Learning run on a different thread so that If network can't reach that epsilon value and stuck user can stop.
 
 ![alt text](https://github.com/mkutalmis/Artificial_Neural_Network/blob/master/img2.png)
+
+After running a network user can delete that network and create new one and run new network on the same data so that user can compare networks.
